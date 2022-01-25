@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mysqlappsyncamplify-dev-231316-authRole",
+      "UnauthRoleArn": "arn:aws:iam::040205470579:role/amplify-mysqlappsyncamplify-dev-231316-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::040205470579:role/amplify-mysqlappsyncamplify-dev-231316-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-mysqlappsyncamplify-dev-231316-deployment",
+      "UnauthRoleName": "amplify-mysqlappsyncamplify-dev-231316-unauthRole",
+      "StackName": "amplify-mysqlappsyncamplify-dev-231316",
+      "StackId": "arn:aws:cloudformation:us-east-2:040205470579:stack/amplify-mysqlappsyncamplify-dev-231316/cba110f0-7baa-11ec-859b-02be0e4e0986",
+      "AmplifyAppId": "d3i7pt5sb376ci"
+    }
+  }
+}
