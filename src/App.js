@@ -3,7 +3,6 @@ import Amplify, { API, graphqlOperation } from 'aws-amplify'
 import { createCustomers } from './graphql/mutations'
 import { listCustomerss } from './graphql/queries'
 import awsExports from "./aws-exports";
-
 Amplify.configure(awsExports);
 const initialState = { id: '', name: '', phone: '', email: '' ,address: ''}
 
